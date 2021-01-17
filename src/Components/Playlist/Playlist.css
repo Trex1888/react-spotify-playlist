@@ -35,6 +35,7 @@
   transition: background-color 0.25s;
   color: #fff;
   font-weight: 500;
+  outline: none;
 }
 
 .Playlist-save:hover {

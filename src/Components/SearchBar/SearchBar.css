@@ -33,6 +33,7 @@
   border: 0px;
   color: #fff;
   font-weight: 500;
+  outline: none;
 }
 
 .SearchButton:hover {
